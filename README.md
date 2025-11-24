@@ -1,6 +1,6 @@
 # 📊 SQL Data Project: Employee Management (`employees_Table`)
 
-## 🇬🇧 English Section: Data Diversity for SQL Practice
+## EN English Section: Data Diversity for SQL Practice
 
 ### ✨ Overview
 
