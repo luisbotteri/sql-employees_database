@@ -424,3 +424,4 @@ INSERT INTO employees_Table (last_Name, first_Name, middle_Name, age, job_Type, 
 SELECT first_Name, last_Name, age, job_Type FROM employees_table WHERE age=35;
 SELECT first_Name, last_Name, age, job_Type FROM employees_table WHERE age=51;
 SELECT last_Name, age FROM employees_table WHERE first_Name='Luis';
+SELECT first_Name AS Name, last_Name AS Surname, age FROM employees_table WHERE age=34;
